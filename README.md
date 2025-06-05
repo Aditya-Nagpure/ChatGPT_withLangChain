@@ -11,3 +11,6 @@ This project is an interactive, memory-enabled chatbot built with LangChain, Ope
 🖥️ Streamlit UI with dynamic chat history display
 
 🔐 Secure .env handling for API key management
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e0e19fc9-b639-4dcd-a199-237370b27531" />
+
